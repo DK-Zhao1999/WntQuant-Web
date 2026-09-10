@@ -29,7 +29,7 @@ For every sample, the tool reports:
 activity_score = mean(activation score) - mean(inhibition score)
 ```
 
-The default scoring method is `relative_ssGSEA`, matching the directional scoring approach used by the WntAct pipeline. If a matrix contains only one sample, WntQuant Web automatically switches to an `absolute` within-sample z-score method because relative ssGSEA requires at least two samples for cross-sample standardization.
+The default scoring method is `relative_ssGSEA`, matching the directional scoring approach used by the WntQuant-Paper pipeline. If a matrix contains only one sample, WntQuant Web automatically switches to an `absolute` within-sample z-score method because relative ssGSEA requires at least two samples for cross-sample standardization.
 
 ## Why use this tool
 
@@ -136,7 +136,7 @@ To deploy your own copy:
 ## Related projects
 
 - [WntQuant](https://github.com/FangZY-Lab/WntQuant)
-- [WntAct](https://github.com/FangZY-Lab/WntAct)
+- [WntQuant-Paper](https://github.com/FangZY-Lab/WntQuant-Paper)
 
 ## License
 
