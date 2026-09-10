@@ -4,11 +4,13 @@ WntQuant Web is a client-side tool for quantifying direction-aware Wnt/β-cateni
 
 ## Live site
 
-The intended public URL is:
+The live site is:
 
 <https://www.WntQuant.com>
 
-The site is also available as a static page after enabling GitHub Pages for this repository.
+Source repository: <https://github.com/DK-Zhao1999/WntQuant-Web>
+
+GitHub Pages is configured to deploy the `main` branch automatically with the included workflow.
 
 ## What it does
 
